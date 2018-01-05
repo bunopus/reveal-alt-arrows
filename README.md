@@ -1,5 +1,4 @@
 # Alt+Arrows Plugin for reveal.js
-[![MIT license][license-img]][license-url]
 Ultra small Plugin for [reveal.js](https://github.com/hakimel/reveal.js).
 Allows to use ALT(OPTION) + ARROW keys to navigate through slides.
 
